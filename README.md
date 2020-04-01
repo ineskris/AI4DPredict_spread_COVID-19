@@ -14,6 +14,10 @@ https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-
 
 - Data : https://ourworldindata.org/coronavirus-source-data
 
+- NYC data :
+https://www1.nyc.gov/site/doh/covid/covid-19-data.page
+
+
 -------------------------------------------------------------------------------------------------------------------------------------
 
 # Ellis Conference
