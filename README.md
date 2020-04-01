@@ -22,6 +22,7 @@ https://github.com/nytimes/covid-19-data?utm_campaign=The%20Batch&utm_source=hs_
 
 https://healthweather.us/?mode=Atypical
 
+other data : https://gitlab.com/kmezhoud/covid19
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
