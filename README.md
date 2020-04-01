@@ -51,6 +51,7 @@ Guenter Klambauer
 VAE/GAN//RNN
 https://github.com/ml-jku/sars-cov-inhibitors-chemai
 
+
 ### AI against COVID-19 at MILA
 Yoshua Bengio
 https://mila.quebec/en/covid-19/
@@ -63,6 +64,7 @@ https://science.sciencemag.org/content/early/2020/03/30/science.abb6936
  How artificial intelligence and machine learning can help healthcare systems respond to COVID-19
  vanderschaar-lab.com
  Variables : Age/ Commorbidity (dont use charlson index )/time of hospitalization 
+ Exclude very young children 
  Papers :
  https://www.linkedin.com/pulse/responding-covid-19-ai-machine-learning-mihaela-van-der-schaar/
  http://www.vanderschaar-lab.com/NewWebsite/covid-19/paper.pdf
@@ -71,6 +73,7 @@ https://science.sciencemag.org/content/early/2020/03/30/science.abb6936
 
 ### COVID: volunteering for machine learners
 Fred Hamprecht 
+
 
 ### Understanding COVID-19 with the help of a million data scientists
 Devvret Rishi 
