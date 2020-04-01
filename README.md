@@ -35,7 +35,6 @@ Lab - https://neherlab.org/
 https://neherlab.org/covid19/about
 Genome - https://nextstrain.org/ncov
 
-
 Viral & host genome sequencing
 
 Global mapping of RNA viruses, their hosts, and their variants
@@ -51,7 +50,6 @@ Guenter Klambauer
 VAE/GAN//RNN
 https://github.com/ml-jku/sars-cov-inhibitors-chemai
 
-
 AI against COVID-19 at MILA
 Yoshua Bengio
 https://mila.quebec/en/covid-19/
@@ -59,15 +57,22 @@ Science -
 https://science.sciencemag.org/content/early/2020/03/30/science.abb6936
 
  Healthcare management
+ 
  Mihaela van der Schaar 
  How artificial intelligence and machine learning can help healthcare systems respond to COVID-19
  vanderschaar-lab.com
- 
- 
- 
- Data, resource, open challenges & community platforms
- 
+ Variables : Age/ Commorbidity/time of hospitalization 
+ Papers :
+ https://www.linkedin.com/pulse/responding-covid-19-ai-machine-learning-mihaela-van-der-schaar/
+ http://www.vanderschaar-lab.com/NewWebsite/covid-19/paper.pdf
 
+Data, resource, open challenges & community platforms 
+
+COVID: volunteering for machine learners
+Fred Hamprecht 
+
+Understanding COVID-19 with the help of a million data scientists
+Devvret Rishi 
 
 
 
