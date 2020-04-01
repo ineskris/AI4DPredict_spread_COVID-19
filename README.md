@@ -12,3 +12,68 @@ https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd
 
 - European Centre for Disease Prevention and Control
 https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
+
+- Data : https://ourworldindata.org/coronavirus-source-data
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+https://ellis.eu/covid-19#livestreaming
+
+Outbreak prediction / tracking & epidemiological modelling
+
+Data Science for Covid-19 in Spain
+Nuria Oliver - Valencia
+Decision and policy Makers
+https://arxiv.org/ftp/arxiv/papers/2003/2003.12347.pdf
+Computational epidemiologist model - SEIR/IBM
+Survey - https://luxparktest.org/redcap/surveys/index.php?s=AMWMTTKEM8
+
+
+Tracking SARS-Cov-2 using viral genomes and projecting its spread?
+Richard Neher - Basel
+Lab - https://neherlab.org/
+https://neherlab.org/covid19/about
+Genome - https://nextstrain.org/ncov
+
+
+Viral & host genome sequencing
+
+Global mapping of RNA viruses, their hosts, and their variants
+Chris Mason
+Random Forest - Variables of Interest
+Population, Surface, elevation, coastal, pop density, surface, temperature (in June?)
+Paper -  Air Surface Environmental, and Personal Protections  
+ 
+Drug development
+
+Screening for CoV inhibitors - Linz, Ai in lIfe
+Guenter Klambauer 
+VAE/GAN//RNN
+https://github.com/ml-jku/sars-cov-inhibitors-chemai
+
+
+AI against COVID-19 at MILA
+Yoshua Bengio
+https://mila.quebec/en/covid-19/
+Science - 
+https://science.sciencemag.org/content/early/2020/03/30/science.abb6936
+
+ Healthcare management
+ Mihaela van der Schaar 
+ How artificial intelligence and machine learning can help healthcare systems respond to COVID-19
+ vanderschaar-lab.com
+ 
+ 
+ 
+ Data, resource, open challenges & community platforms
+ 
+
+
+
+
+
+
+
+
+
+   
