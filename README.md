@@ -17,6 +17,11 @@ https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-
 - NYC data :
 https://www1.nyc.gov/site/doh/covid/covid-19-data.page
 
+- USA data :
+https://github.com/nytimes/covid-19-data?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=85609380&_hsenc=p2ANqtz--RitMbqWh1eMaU5iSZzcGiu360_uTu538cGrK4CNQC0VissXZivpbcl9hBs21V1smc0GHQoA3B5eZcRAN76WMYkKEqVw&_hsmi=85609380
+
+https://healthweather.us/?mode=Atypical
+
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
