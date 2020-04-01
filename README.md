@@ -71,13 +71,14 @@ https://science.sciencemag.org/content/early/2020/03/30/science.abb6936
 
 ## Data, resource, open challenges & community platforms 
 
-**COVID: volunteering for machine learners**
+**COVID: volunteering for machine learners** 
 Fred Hamprecht 
+https://discourse.data-against-covid.org/
 
 
 **Understanding COVID-19 with the help of a million data scientists**
 Devvret Rishi 
-
+Kaggle - https://www.kaggle.com/covid-19-contributions
 
 
 
