@@ -46,13 +46,13 @@ Paper -  Air Surface Environmental, and Personal Protections
  
 ## Drug development
 
-### Screening for CoV inhibitors - Linz, Ai in lIfe
+**Screening for CoV inhibitors - Linz, Ai in lIfe**
 Guenter Klambauer 
 VAE/GAN//RNN
 https://github.com/ml-jku/sars-cov-inhibitors-chemai
 
 
-### AI against COVID-19 at MILA
+*AI against COVID-19 at MILA*
 Yoshua Bengio
 https://mila.quebec/en/covid-19/
 Science - 
