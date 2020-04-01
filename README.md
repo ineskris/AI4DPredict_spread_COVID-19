@@ -52,7 +52,7 @@ VAE/GAN//RNN
 https://github.com/ml-jku/sars-cov-inhibitors-chemai
 
 
-*AI against COVID-19 at MILA*
+**AI against COVID-19 at MILA**
 Yoshua Bengio
 https://mila.quebec/en/covid-19/
 Science - 
@@ -60,7 +60,7 @@ https://science.sciencemag.org/content/early/2020/03/30/science.abb6936
 
  ## Healthcare management
  
- ### Mihaela van der Schaar 
+**Mihaela van der Schaar**
  How artificial intelligence and machine learning can help healthcare systems respond to COVID-19
  vanderschaar-lab.com
  Variables : Age/ Commorbidity (dont use charlson index )/time of hospitalization 
@@ -71,11 +71,11 @@ https://science.sciencemag.org/content/early/2020/03/30/science.abb6936
 
 ## Data, resource, open challenges & community platforms 
 
-### COVID: volunteering for machine learners
+**COVID: volunteering for machine learners**
 Fred Hamprecht 
 
 
-### Understanding COVID-19 with the help of a million data scientists
+**Understanding COVID-19 with the help of a million data scientists**
 Devvret Rishi 
 
 
