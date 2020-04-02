@@ -23,6 +23,7 @@ https://github.com/nytimes/covid-19-data?utm_campaign=The%20Batch&utm_source=hs_
 https://healthweather.us/?mode=Atypical
 
 other data : https://gitlab.com/kmezhoud/covid19
+https://www.tephinet.org/tephinet-learning-center/coronavirus-knowledge-hub
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
@@ -90,8 +91,31 @@ https://discourse.data-against-covid.org/
 Devvret Rishi 
 Kaggle - https://www.kaggle.com/covid-19-contributions
 
+-------------------------------------------------------------------------------------------------------------------------------------
+
+# Coursera - Fighting COVID-19 with Epidemiolog 
+
+*Definitions* :
+- Incubation period - time from infection to symptom onset  (SARS : 4 days , Influenza : 1.5 days)
+- Latent period -  time from infection to becoming infectious 
+- Attack rate (AR): nb pp developing disease / nb pp
+- Relative risk : AR1/AT2 to compare 2 groups 
+- Open pop : nb pp developing disease / nb pp (unknown)
+ Solution : case/control study , calculate the odds , odds ratio = odd cases/ odd controls
+- Sensitivity / Specificity : say yes if not sick / say no even if he is sick 
+- Household Secondary Attack Rate : SAR = (I - 1)/(N-1)
+- Susceptible exposed attack rate 
+ - Reproductive numbers R0 (SARS : 1.2-4 , Influenza: 1.5-2)
+ - Critical Vaccination Threshold : V = 1-1/Ro to bring R0 below 1 
+ 
+Famous old author : William Farr
 
 
+-------------------------------------------------------------------------------------------------------------------------------------
+
+# Future Learn - Tackling the Novel Coronavirus
+
+https://www.futurelearn.com/courses/covid19-novel-coronavirus
 
 
 
