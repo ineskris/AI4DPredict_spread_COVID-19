@@ -117,7 +117,8 @@ Famous old author : William Farr
 
 https://www.futurelearn.com/courses/covid19-novel-coronavirus
 
-
+Case Fatality : number of cause specific disease deaths among the cases/ number of cases of disease
+covid 19 : 2%
 
 
    
