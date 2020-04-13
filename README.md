@@ -2,6 +2,29 @@
 
 Link : https://zindi.africa/competitions/predict-the-global-spread-of-covid-19
 
+
+April 9 :
+Part 1 done
+April 13 :
+Part 2 done
+Part 3 to finish 
+
+
+
+
+# Github 
+
+To update your local repo :
+```git pull upstream master```
+
+To commit new things to the remote : 
+```git add .```
+```git commit -m "up"```
+```git push```
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
 Useful links :
 - WorldWide
 http://gabgoh.github.io/COVID/index.html
