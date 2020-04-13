@@ -3,15 +3,6 @@
 Link : https://zindi.africa/competitions/predict-the-global-spread-of-covid-19
 
 
-April 9 :
-Part 1 done
-April 13 :
-Part 2 done
-Part 3 to finish 
-
-
-
-
 # Github 
 
 To update your local repo :
@@ -22,6 +13,8 @@ To commit new things to the remote :
 ```git commit -m "up"```
 ```git push```
 
+If "Changes not staged for commit" :
+```git add -u :/```
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
