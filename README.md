@@ -2,6 +2,29 @@
 
 Link : https://zindi.africa/competitions/predict-the-global-spread-of-covid-19
 
+
+# Github 
+
+To update your local repo :
+```git pull upstream master```
+
+To commit new things to the remote : 
+```git add .```
+```git commit -m "up"```
+```git push```
+
+If "Changes not staged for commit" :
+```git add -u :/```
+```git commit -m "up"```
+```git push```
+
+
+If it still does not work : 
+```git fetch --all```
+```git reset --hard origin/master```
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
 Useful links :
 - WorldWide
 http://gabgoh.github.io/COVID/index.html
