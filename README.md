@@ -15,6 +15,8 @@ To commit new things to the remote :
 
 If "Changes not staged for commit" :
 ```git add -u :/```
+```git commit -m "up"```
+```git push```
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
