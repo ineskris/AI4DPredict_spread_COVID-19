@@ -19,7 +19,7 @@ If "Changes not staged for commit" :
 ```git push```
 
 
-
+If it still does not work : 
 ```git fetch --all```
 ```git reset --hard origin/master```
 
