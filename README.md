@@ -18,6 +18,11 @@ If "Changes not staged for commit" :
 ```git commit -m "up"```
 ```git push```
 
+
+
+```git fetch --all```
+```git reset --hard origin/master```
+
 -------------------------------------------------------------------------------------------------------------------------------------
 
 Useful links :
