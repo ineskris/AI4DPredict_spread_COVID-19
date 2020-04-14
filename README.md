@@ -144,4 +144,8 @@ Case Fatality : number of cause specific disease deaths among the cases/ number 
 covid 19 : 2%
 
 
-   
+# Courses Time Series Paul
+
+https://openclassrooms.com/fr/courses/4525371-analysez-et-modelisez-des-series-temporelles/4824416-decouvrez-lunivers-des-donnees-temporelles
+
+https://www.imo.universite-paris-saclay.fr/~goude/Materials/ProjetMLF/time_series.html
