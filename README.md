@@ -2,6 +2,9 @@
 
 Link : https://zindi.africa/competitions/predict-the-global-spread-of-covid-19
 
+https://data.humdata.org/dataset/world-bank-indicators-of-interest-to-the-covid-19-outbreak
+
+http://idiom.ucsd.edu/~rlevy/pmsl_textbook/chapters/pmsl_8.pdf
 
 # Github 
 
